@@ -1,0 +1,61 @@
+
+/* THIS IS THE {FULL PART} CUSTOMER DETAILS FORM  */
+.cform {
+    position: absolute;
+    color: hsl(0, 0%, 5%);
+    top: 25%;
+    left: 70%;
+    right: 4%;
+    bottom: 5%;
+    max-width:500px;
+    max-height: 500px;
+    z-index: 85;
+    border-radius: 8px;
+    font-family:serif;;
+    text-align: left;
+    padding-left: 1%;
+    font-size: 157%;
+    background-color: #fafaf8;
+    box-shadow:10px 10px 5px  rgba(0, 0, 0, 0.1);
+  }
+  
+  .cform h3 {
+    color: #000000;
+    font-size: 120%;
+    text-decoration: underline;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+  }
+
+  .submit{
+    text-align: center;
+  }
+
+  .whatsaap {
+    font-size: 50%;
+  }
+  .Conditions {
+    font-size: 30%;
+    color: #030303;
+  }
+  .required {
+    text-align: center;
+    font-size: 10px;
+    color: black;
+  }
+  input[type="submit"]{
+    background-color: #b10d0d;
+    color: #ffffff;
+    padding: 3px 15px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 40%;
+    
+  }
+  
+  input[type="submit"]:hover{
+  background-color:#000000 ;
+  }

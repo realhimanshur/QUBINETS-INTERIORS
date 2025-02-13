@@ -1,0 +1,57 @@
+
+/* THIS IS THE MAIN TAG LINE PART OF COMPANY  */
+.heading1 {
+    position: absolute;
+    color: rgb(7, 7, 7);
+    top: 45%;
+    left: 7%;
+    max-width: 600px;
+    z-index: 85;
+    background-color: #fafaf8;
+    box-shadow:10px 10px 5px  rgba(0, 0, 0, 0.5);
+    /* backdrop-filter: blur(10px); */
+    border-radius: 8px;
+    /* border: 5px solid rgb(255, 255, 255); */
+  }
+  .heading1 span{
+    color: #ff0000;
+    text-decoration: underline;
+  }
+  
+  /* THIS IS THE { FIRST PART }  OF MAIN TAG LINE PART OF COMPANY  */
+  .heading1 h1 {
+    margin: 1cm;
+    font-size: 40px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  /* THIS IS THE { SECOND PART }  OF MAIN TAG LINE PART OF COMPANY  */
+  .heading1 h2 {
+    color: #000000;
+    margin: 1cm;
+    text-decoration: underline;
+    font-size: 35px;
+    
+  }
+  .heading1 h2 span {
+    color: #f9bd07;
+  }
+  
+  /* THIS IS THE { 2ND LINE }OF MAIN TAG LINE PART OF COMPANY  */
+  /* .underheading {
+    position:absolute ;
+    color: #000000;
+    left: 11cm;
+    top:83%;
+    font-size: 10%;
+    z-index: 90;
+  } */
+  .underheading span{
+    color:#f90707;
+    text-decoration: underline;
+  }
+
+
+
+
+
+  

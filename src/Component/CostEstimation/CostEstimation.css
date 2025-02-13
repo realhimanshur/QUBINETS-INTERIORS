@@ -1,0 +1,21 @@
+.costestimation a {
+    color: #f50a0a;
+    font-style: italic;
+    font-weight:bold;
+    position:absolute; 
+    left: -80px; 
+    top: 28%;
+    transition: 0.3s; 
+    padding: 5px; 
+    width: 100px; 
+    text-decoration: none; 
+    font-size: 15px;
+    border-radius: 1px;
+    border: 8px solid rgb(255, 255, 255);
+    background-color: #ffffff;
+  }
+  
+  .costestimation a:hover {
+    left: 0; /* On mouse-over, make the elements appear as they should */
+  }
+  
